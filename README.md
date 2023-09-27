@@ -1,7 +1,8 @@
 <h1 align="center">Hi there I'm <b>Mateo Lambert</b>👋</h1>
 <p>
   - 🔭 I’m currently working as a fullstack developper in apprenticeship ! <br>
-- 🌱 I’m currently learning React :)<br>
+<div>- 🌱 I’m currently learning React <img height="15" width="15" position="relative" bottom="-2px" left="6px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      alt="angular"/></div><br>
 - 📫 How to reach me: matlambert@et.esiea.fr<br>
 </p>
 
